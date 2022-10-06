@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rozmiar_czcionki">24sp</dimen>
+    <dimen name="fajnailosc">8dp</dimen>
+    <dimen name="fajnailosc2">2dp</dimen>
+    <dimen name="margiens_texta">32dp</dimen>
+</resources>

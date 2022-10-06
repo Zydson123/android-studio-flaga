@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hello world 3</string>
+    <string name="pytanie">Select the colors that aren\'t a part of the Polish flag</string>
+    <string name="zleZaznaczone">This color isn\'t in the Polish flag!</string>
+    <string name="dobrzeZaznaczone">Good Job! This color isn\'t in the Polish flag</string>
+    <string name="wygranaGra">Congratulations! All the correct colors have been clicked</string>
+</resources>

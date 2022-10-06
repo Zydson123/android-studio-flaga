@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hello world 3</string>
+    <string name="pytanie">Wybierz kolory, które nie są we fladze Polski</string>
+    <string name="zleZaznaczone">Ten kolor jest we fladze pojskiej</string>
+    <string name="dobrzeZaznaczone">Dobra robota! Tego koloru nie ma w Polskiej fladze</string>
+    <string name="wygranaGra">Gratulacje! Zaznaczone zostały wszystkie poprawne kolorki</string>
+</resources>
